@@ -62,6 +62,18 @@ cadastroc/cadastro
 
 - imagens/cadastro.png: Imagem usada no cabeçalho.
 
+# Como rodar projeto
+
+- Clone  repositório
+
+      git clone https://github.com/RafaelPrioste/cadastroc
+
+- Entrar na pasta do projeto
+
+      cd nome do repositório (cadastroc)
+
+- Abrir o arquivo index.html em um navegador web
+
    
 # Como contribuir
 

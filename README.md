@@ -43,11 +43,11 @@ cadastroc/cadastro
 
 ├── css/
 
-│  ....... └── styles.css (se aplicável)
+│  ....... └── styles.css
 
 ├── js/
 
-│   .......└── scripts.js (se aplicável)
+│   .......└── scripts.js
 
 └── imagens/
 
@@ -61,6 +61,14 @@ cadastroc/cadastro
 - cadastro.html: Página para a listagem de clientes.
 
 - imagens/cadastro.png: Imagem usada no cabeçalho.
+
+# Código limpo
+
+- Organização do Código
+
+O código é dividido em seções lógicas e claras (HTML, CSS, JavaScript)
+
+Foram dados nomes significativos que indicam calaramente o propósito e uso
 
 # Como rodar projeto
 
@@ -79,9 +87,9 @@ cadastroc/cadastro
 
 -Faça um fork deste repositório.
 
--Crie uma branch com a sua feature: git checkout -b minha-feature.
+-Criand uma branch com sua feature: git checkout -b minha-feature.
 
--Faça commit das suas alterações: git commit -m 'feat: Minha nova feature'.
+-Faça commit de suas alterações: git commit -m 'feat: Minha nova feature'.
 
 -Faça push para a sua branch: git push origin minha-feature.
 
